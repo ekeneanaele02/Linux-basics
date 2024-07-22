@@ -1,0 +1,153 @@
+help
+help
+grep "Emmett Dulaney" /etc/passwd
+Homestead
+cd
+pwd
+exit
+pwd
+chsh
+grep
+ls /dev
+ls ttys5
+cd; 1s -1; pwd
+pwd
+1s -1
+ls -l
+grep
+ls
+cat>shoppin list
+cat>shoppin_list
+ls
+rm shoppin
+ls
+date
+whoami
+hostname
+uname
+uptime
+ls
+cat shoppin_list
+cat > secret-of-the-universe
+cat secret-of-the-universe
+ls
+jobs
+jobs [2]
+xclock
+date
+greeting
+echo Good Morning
+Nice
+ls
+cat shoppin_list
+rmv shoppin_list
+cat > Matthew 3:22
+cat > Mathew_3_22
+cat > Matthew_3_17
+cat Matthew_3_17
+clr
+help
+rm file$_here
+cat > shakespeare
+mv shakespeare.txt sonnet-18.txt
+cat shakespeare
+cp shakespeare.txt sonnet-18.txt
+cat sonnet-18.txt
+cd...
+cd..
+mkdir Poetry
+rm Poetry
+rm -r Poetry
+Poetry
+mkdir Poetry
+pwd
+cd/Users/Programs
+cd /Programs
+locate mkdir
+locate Poetry
+ls -l-a
+ls -l --a
+ls help
+ls --help
+ls -L
+2
+ls --help
+ls --full-time
+$files
++echo $files
+echo $files
+for file in shakespeare.txt; do cp shakespeare.txt texts.txt; 
+exit
+ls -a
+ls -A
+df
+bash
+exit
+for i in {1..5}; do echo "Welcome $i times"; done
+echo great 
+find -type d
+echo "Count these words, boy" | wc
+sudo/etc/init.d/nginx
+sudo/etc/init.d/nginx start
+sudo systemct1 start nginx
+sudo systemctl enable nginx
+ls
+cat > Phoenix
+cat Phoenix
+tac Phoenix
+ls -a
+ls -A
+ls -la
+pwd
+cd Documents
+pwd
+mkdir Phoenix
+ls
+cd Phoenix
+cd Documents
+pwd
+cd /c/Users/USER/Documents
+pwd
+cd .
+cd ..
+pwd
+rm Phoenix
+ls
+cd Homestead
+cd ..
+echo Good morning
+echo Lord help me as I practice today
+cat Phoenix
+pwd
+cd/Documents
+cd Documents
+cat Phoenix
+rm Phoenix
+exit
+cd > Desktop
+cd/Desktop
+cd Desktop
+cat > To Do
+rm To Do
+ccat > ToDo
+rm ToDo
+cat > To_Do
+cat > To_Do
+cat To_Do
+cd ..
+cat Matthew_3_22
+cd Desktop
+cat To_Do
+date
+time
+touch To
+mv To.txt To Do.txt
+mv To.txt "To Do".txt
+mv To.txt "To Do.txt"
+mv "To.txt" "To Do.txt"
+touch To Do
+rm Do
+rm To
+touch Do
+ls -l Do
+sudo apt install chrome
